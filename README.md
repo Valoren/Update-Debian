@@ -1,2 +1,4 @@
 # Update-Debian
-Simple update script for Debian like systems
+Simple update shell script for Debian like systems
+
+Execute with sudo ./update.sh
